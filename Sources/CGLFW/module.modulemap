@@ -1,0 +1,5 @@
+module CGLFW [system] {
+    umbrella header "GLFW-Bridging-Header.h"
+    link "glfw"
+    export *
+}

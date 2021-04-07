@@ -1,0 +1,5 @@
+module CVulkan [system] {
+    umbrella header "Vulkan-Bridging-Header.h"
+    link "vulkan"
+    export *
+}
